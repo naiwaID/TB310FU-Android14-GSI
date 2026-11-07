@@ -1,0 +1,13 @@
+https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-arm64_bvN.img.gz/download
+https://gigenet.dl.sourceforge.net/project/andyyan-gsi/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-arm64_bvN.img.gz?viasf=1
+https://netix.dl.sourceforge.net/project/andyyan-gsi/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-arm64_bvN.img.gz?viasf=1
+https://excellmedia.dl.sourceforge.net/project/andyyan-gsi/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-arm64_bvN.img.gz?viasf=1
+https://phoenixnap.dl.sourceforge.net/project/andyyan-gsi/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-arm64_bvN.img.gz?viasf=1
+https://deac-riga.dl.sourceforge.net/project/andyyan-gsi/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-arm64_bvN.img.gz?viasf=1
+https://master.dl.sourceforge.net/project/andyyan-gsi/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-arm64_bvN.img.gz?viasf=1
+https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-a64_bvN.img.gz/download
+https://gigenet.dl.sourceforge.net/project/andyyan-gsi/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-a64_bvN.img.gz?viasf=1
+https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/lineage-21.0-20250621-UNOFFICIAL-arm64_bvN-vndklite.img.gz/download
+https://mirrors.lolinet.com/firmware/lenowow/2022/Tab_M9/TB310FU/TB310FU_S000912_251002_ROW.zip
+https://github.com/mytja/treble_evo/releases/download/20250422/evolution_arm64_bvN-9.9.3-unofficial-20250422.img.xz
+https://gh-proxy.com/https://github.com/mytja/treble_evo/releases/download/20250422/evolution_arm64_bvN-9.9.3-unofficial-20250422.img.xz

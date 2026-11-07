@@ -1,0 +1,31 @@
+# 设备备份：含 IMEI、MAC、射频校准，绝对不能公开
+备份/
+backup/
+
+# 系统镜像：体积过大（2.6G），用 GitHub Release 分发
+镜像/
+dl/
+*.img
+*.img.gz
+*.img.xz
+*.zip
+*.7z
+
+# Python 环境与第三方工具源码
+venv/
+mtkclient/
+__pycache__/
+*.pyc
+
+# 日志与临时文件
+*.log
+*.tmp
+记录/*.log
+
+# 个人安装记录（不影响他人使用）
+记录/应用冷静期/waitlist.txt
+记录/应用冷静期/installed.log
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
